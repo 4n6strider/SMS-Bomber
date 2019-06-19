@@ -6,10 +6,11 @@ to send bulk quantities of text or picture messages to a target phone number. Th
 is a standalone script that packs a lot of features. Read more below.
 
 ## Features
- * SMS Spamming
+ * Python2 & Python3 Support
+ * SMS/MMS Spamming Support
  * Tor Proxy Routing
- * Support for Numerous Cell Providers
- * Support for Numerous Email Providers
+ * Support for numerous Cell Providers
+ * Support for numerous Email Providers
 
 ## TODO
  * Add Sub-Parser (for SMS & MMS support)
