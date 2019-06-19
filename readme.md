@@ -12,6 +12,14 @@ is a standalone script that packs a lot of features. Read more below.
  * Support for numerous Cell Providers
  * Support for numerous Email Providers
 
+## Install/Usage
+ * Install:
+ * * python3 -m pip install -r requirements.txt
+ 
+ * Usage
+ * * python3 sms-bomber.py --help
+
+
 ## TODO
  * Add Sub-Parser (for SMS & MMS support)
  * Add Sub-Parser for Email Spoofing Option
